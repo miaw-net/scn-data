@@ -6,13 +6,13 @@ In this repo you will find a csv file containing information on ~350 submarine c
 
 ## Terminology
 
-##### Submarine Link
+##### Submarine Link (SL)
 The set of consecutive hops in a traceroute measurement that cross the ocean and use submarine infrastructure.
 
 ##### Segment
 Submarine Cable Systems oftentimes have > 2 landing points and are comprised of segments -- this is the portion of a cable system that lies between two directly connected landing points.
 
-##### Landing Point
+##### Landing Point (LP)
 A landing point is the location where the submarine cable emerges from the water and connects to terrestrial infrastructure.
 
 ##### Submarine Cable Operators
@@ -21,7 +21,7 @@ Entity that owns or maintains submarine cables. May or may not also directly use
 ##### Submarine Cable Users
 Entities that purchase capacity on submarine cables.
 
-##### Vantage Point
+##### Vantage Point (VP)
 A measurement node in the Internet used to launch measurements. For this work, we look at traceroute measurements.
 
 ##### RIPE Atlas Anchor
